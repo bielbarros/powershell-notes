@@ -77,17 +77,19 @@ PowerShell/
 
 📚 Conteúdos abordados
 
-✅ Verificação de versão e ambiente PowerShell  
-✅ Processos e gerenciamento de memória  
-✅ Gerenciamento de serviços do Windows  
-✅ Operações com arquivos e diretórios  
-✅ Diagnóstico e comandos de rede  
-✅ Gerenciamento de usuários locais  
-✅ Scripts e comandos do sistema (reinício, uptime, etc.)  
+
+✅ Abertura de sites e programas automaticamente  
 ✅ Agendamento e automação de tarefas  
-✅ Funções personalizadas e utilitárias  
-✅ Exemplos práticos para automação no Windows  
-✅ Utilitários diversos para produtividade
+✅ Monitoramento de desempenho e status da máquina  
+✅ Gerenciamento de serviços e processos do Windows  
+✅ Verificação de dispositivos e recursos (USB, som, bateria, espaço em disco, antivírus)  
+✅ Informações de rede e conectividade (Wi-Fi, IP, ping, portas abertas)  
+✅ Operações com arquivos e diretórios  
+✅ Verificação de usuários e permissões administrativas  
+✅ Identificação do modelo do PC e versão do sistema  
+✅ Execução de comandos utilitários personalizados  
+✅ Exemplos práticos de automações e testes no Windows
+
 ---
 
 ## 🧠 Sobre PowerShell
