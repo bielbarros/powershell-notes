@@ -34,7 +34,7 @@ PowerShell/
 ├── verificar_espaco_hd.ps1
 ├── verificar_modelo_pc.ps1
 ├── verificar_versao.ps1
-└── verificar_wifi.ps1
+├── verificar_wifi.ps1
 ├── notes.md
 └── README.md
 ```
