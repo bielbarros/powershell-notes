@@ -17,6 +17,11 @@ PowerShell/
 ├── sistema_geral.ps1
 ├── usuarios.ps1
 ├── verificar_versao.ps1
+├── backup_automatico.ps1
+├── gerenciamento_eventos.ps1
+├── monitoramento_recursos.ps1
+├── permissao_arquivos.ps1
+├── registro_windows.ps1
 ├── notes.md
 └── README.md
 ```
@@ -57,16 +62,19 @@ PowerShell/
 
 ## 📚 Conteúdos abordados
 
-- ✅ Verificação de versão e ambiente PowerShell
-- ✅ Processos e gerenciamento de memória
-- ✅ Serviços do Windows (iniciar/parar)
-- ✅ Operações com arquivos e diretórios
-- ✅ Diagnóstico de rede (ping, portas)
-- ✅ Gerenciamento de usuários locais
-- ✅ Scripts de sistema (reinício, tempo de uptime)
-- ✅ Tarefas agendadas
-- ✅ Funções personalizadas e reutilizáveis
+📚 Conteúdos abordados
 
+✅ Verificação de versão e ambiente PowerShell  
+✅ Processos e gerenciamento de memória  
+✅ Gerenciamento de serviços do Windows  
+✅ Operações com arquivos e diretórios  
+✅ Diagnóstico e comandos de rede  
+✅ Gerenciamento de usuários locais  
+✅ Scripts e comandos do sistema (reinício, uptime, etc.)  
+✅ Agendamento e automação de tarefas  
+✅ Funções personalizadas e utilitárias  
+✅ Exemplos práticos para automação no Windows  
+✅ Utilitários diversos para produtividade
 ---
 
 ## 🧠 Sobre PowerShell
