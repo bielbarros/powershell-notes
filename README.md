@@ -8,20 +8,33 @@ Este repositório contém meus **estudos, anotações e scripts úteis de PowerS
 
 ```plaintext
 PowerShell/
-├── arquivos_e_pastas.ps1
+├── abrir_calculadora.ps1
+├── abrir_site.ps1
 ├── agendador_tarefas.ps1
+├── arquivos_e_pastas.ps1
+├── desativar_usb.ps1
+├── desempenho_monitoramento.ps1
+├── discos_particoes.ps1
 ├── funcoes_utilitarias.ps1
+├── horario_ligado.ps1
+├── listar_instalados.ps1
+├── listar_portas_abertas.ps1
 ├── listar_processos.ps1
+├── mostrar_nome_pc.ps1
+├── ping_simples.ps1
 ├── rede_comandos.ps1
 ├── servicos_windows.ps1
 ├── sistema_geral.ps1
+├── teste.ps1
+├── tocar_som.ps1
 ├── usuarios.ps1
+├── verificar_admin.ps1
+├── verificar_antivirus.ps1
+├── verificar_bateria.ps1
+├── verificar_espaco_hd.ps1
+├── verificar_modelo_pc.ps1
 ├── verificar_versao.ps1
-├── backup_automatico.ps1
-├── gerenciamento_eventos.ps1
-├── monitoramento_recursos.ps1
-├── permissao_arquivos.ps1
-├── registro_windows.ps1
+└── verificar_wifi.ps1
 ├── notes.md
 └── README.md
 ```
